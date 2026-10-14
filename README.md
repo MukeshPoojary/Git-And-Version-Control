@@ -289,3 +289,7 @@ Hands-on training in SOC fundamentals, log analysis, and incident response workf
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,100:3c3836&height=120&section=footer&text=Stay%20Curious.%20Stay%20Ethical.&fontSize=22&fontColor=a89984&fontAlignY=68" />
 
 </div>
+
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/MukeshPoojary/MukeshPoojary/output/github-snake.svg" alt="Contribution snake" />

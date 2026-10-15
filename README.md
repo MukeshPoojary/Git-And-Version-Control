@@ -2,8 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3c3836,100:282828&height=200&section=header&text=Mukesh%20Poojary&fontSize=60&fontColor=ebdbb2&fontAlignY=38&desc=BCA%20Cybersecurity%20Student%20%E2%80%A2%20Ethical%20Hacking%20%E2%80%A2%20Secure%20Development&descAlignY=60&descSize=16&descColor=a89984" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=800&color=D79921&center=true&vCenter=true&width=950&lines=Learn+It.+Break+It.+Defend+It.;Ethical+Hacking+%E2%80%A2+CTFs+%E2%80%A2+Blue+Team+Basics;Secure+By+Design%2C+Never+By+Accident;Networking+%E2%80%A2+Linux+%E2%80%A2+Malware+Analysis+Fundamentals" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=D79921&center=true&vCenter=true&repeat=false&width=950&lines=Hi%2C+I%27m+Mukesh;Hi%2C+I%27m+Mukesh" alt="Hi, I'm Mukesh" />
 <br/>
 
 <img src="https://img.shields.io/badge/BCA-Cybersecurity-d79921?style=flat-square&labelColor=3c3836" />
